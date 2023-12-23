@@ -1,6 +1,3 @@
--- Made by SnapDragon dev fuck yesmeanshhs
--- IDIOT SKIDID USERS
-
 local MessageBox = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/NotificationGUI/main/source.lua"))()
 
 
