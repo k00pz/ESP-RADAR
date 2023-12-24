@@ -13,11 +13,11 @@ local MessageBox = loadstring(game:HttpGet("https://raw.githubusercontent.com/xH
       • OK
 --]]
 -- AnchorPoint is 0.5,0.5
-MessageBox.Show({Position = UDim2.new(0.5,0,0.5,0), Text = "Hey", Description = "GREEN HUB ESP RADAR🟩🟩", MessageBoxIcon = "Question", MessageBoxButtons = "YesNo", Result = function(res)
+MessageBox.Show({Position = UDim2.new(0.5,0,0.5,0), Text = "Hey", Description = "GREEN HUB blade ball RADAR🟩🟩", MessageBoxIcon = "Question", MessageBoxButtons = "YesNo", Result = function(res)
    if (res == "Yes") then
-       MessageBox.Show({MessageBoxButtons = "OK", Description = "Just click off this ui", Text = "YAYYY!"})
+       MessageBox.Show({MessageBoxButtons = "OK", Description = "Just click off this ui", Text = "Green hub!"})
    elseif (res == "No") then
-       MessageBox.Show({MessageBoxButtons = "OK", Description = "Just click of this ui", Text = "Nooooo"})
+       MessageBox.Show({MessageBoxButtons = "OK", Description = "Just click of this ui", Text = "Green hub!"})
    end
 end})
 
